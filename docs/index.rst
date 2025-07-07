@@ -6,7 +6,7 @@ How to Log in to VPN Express: A Step-by-Step Guide
    :caption: Contents:
 Learn how to log in to VPN Express easily. Follow this guide to ensure a smooth and secure login process for your online privacy. 
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Express VPN
    :width: 400px
    :align: center
